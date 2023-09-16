@@ -23,8 +23,8 @@ It was very refreshing to find the concept approachable based on what we learned
 
 ## Modules
 
-*numpy
-*pandas
-*pathlib
-*sklearn
-*imblearn
+* numpy
+* pandas
+* pathlib
+* sklearn
+* imblearn
